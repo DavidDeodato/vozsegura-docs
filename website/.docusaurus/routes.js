@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/vozsegura-docs/docs',
-    component: ComponentCreator('/vozsegura-docs/docs', 'd23'),
+    component: ComponentCreator('/vozsegura-docs/docs', '024'),
     routes: [
       {
         path: '/vozsegura-docs/docs/',
@@ -56,6 +56,12 @@ export default [
       {
         path: '/vozsegura-docs/docs/entendimento-problema',
         component: ComponentCreator('/vozsegura-docs/docs/entendimento-problema', '6b0'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/vozsegura-docs/docs/entendimento-usuario',
+        component: ComponentCreator('/vozsegura-docs/docs/entendimento-usuario', 'a4b'),
         exact: true,
         sidebar: "docs"
       },

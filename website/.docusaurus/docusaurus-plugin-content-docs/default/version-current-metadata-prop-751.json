@@ -28,6 +28,12 @@
           },
           {
             "type": "link",
+            "label": "Entendimento do Usuario",
+            "href": "/vozsegura-docs/docs/entendimento-usuario",
+            "docId": "entendimento-usuario"
+          },
+          {
+            "type": "link",
             "label": "Solucao",
             "href": "/vozsegura-docs/docs/solucao",
             "docId": "solucao"
@@ -72,6 +78,12 @@
       "id": "entendimento-problema",
       "title": "Entendimento do Problema",
       "description": "Contexto e Dor",
+      "sidebar": "docs"
+    },
+    "entendimento-usuario": {
+      "id": "entendimento-usuario",
+      "title": "Entendimento do Usuario",
+      "description": "Nossa solucao e voltada para pessoas de 60 anos ou mais, muitas delas de baixa renda e com baixo letramento digital. Para desenhar o ecossistema VozSegura, fizemos uma analise qualitativa do perfil e das necessidades deste publico. Abaixo, sintetizamos alguns perfis representativos e extraimos suas dores, desejos e comportamentos.",
       "sidebar": "docs"
     },
     "equipe": {

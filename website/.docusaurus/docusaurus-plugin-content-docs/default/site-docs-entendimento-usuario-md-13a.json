@@ -1,0 +1,24 @@
+{
+  "unversionedId": "entendimento-usuario",
+  "id": "entendimento-usuario",
+  "title": "Entendimento do Usuario",
+  "description": "Nossa solucao e voltada para pessoas de 60 anos ou mais, muitas delas de baixa renda e com baixo letramento digital. Para desenhar o ecossistema VozSegura, fizemos uma analise qualitativa do perfil e das necessidades deste publico. Abaixo, sintetizamos alguns perfis representativos e extraimos suas dores, desejos e comportamentos.",
+  "source": "@site/../docs/entendimento-usuario.md",
+  "sourceDirName": ".",
+  "slug": "/entendimento-usuario",
+  "permalink": "/vozsegura-docs/docs/entendimento-usuario",
+  "draft": false,
+  "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/entendimento-usuario.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Entendimento do Problema",
+    "permalink": "/vozsegura-docs/docs/entendimento-problema"
+  },
+  "next": {
+    "title": "Solucao",
+    "permalink": "/vozsegura-docs/docs/solucao"
+  }
+}

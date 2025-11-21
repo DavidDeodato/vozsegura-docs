@@ -32,6 +32,11 @@ export default {
           "position": "left"
         },
         {
+          "to": "/docs/entendimento-usuario",
+          "label": "Usuario",
+          "position": "left"
+        },
+        {
           "to": "/docs/solucao",
           "label": "Solucao",
           "position": "left"
@@ -39,6 +44,11 @@ export default {
         {
           "to": "/docs/analise-financeira-tecnica",
           "label": "Analise",
+          "position": "left"
+        },
+        {
+          "to": "/docs/entendimento-usuario",
+          "label": "Usuario",
           "position": "left"
         },
         {

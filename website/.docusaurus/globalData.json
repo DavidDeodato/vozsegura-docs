@@ -21,6 +21,11 @@
               "sidebar": "docs"
             },
             {
+              "id": "entendimento-usuario",
+              "path": "/vozsegura-docs/docs/entendimento-usuario",
+              "sidebar": "docs"
+            },
+            {
               "id": "equipe",
               "path": "/vozsegura-docs/docs/equipe",
               "sidebar": "docs"
