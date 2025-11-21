@@ -19,6 +19,7 @@ const config = {
       items: [
         { to: '/docs/index', label: 'Sumario Executivo', position: 'left' },
         { to: '/docs/entendimento-problema', label: 'Problema', position: 'left' },
+            { to: '/docs/entendimento-usuario', label: 'Usuario', position: 'left' },
         { to: '/docs/solucao', label: 'Solucao', position: 'left' },
         { to: '/docs/analise-financeira-tecnica', label: 'Analise', position: 'left' },
         { to: '/docs/impacto', label: 'Impacto', position: 'left' },
