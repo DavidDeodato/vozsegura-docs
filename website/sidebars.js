@@ -12,11 +12,13 @@ const sidebars = {
         'solucao',
         'analise-financeira-tecnica',
         'impacto',
+            'fluxo',
         'equipe',
         'roadmap',
       ],
     },
   ],
+    
 };
 
 module.exports = sidebars;

@@ -24,6 +24,8 @@ const config = {
         { to: '/docs/analise-financeira-tecnica', label: 'Analise', position: 'left' },
             { to: '/docs/entendimento-usuario', label: 'Usuario', position: 'left' },
         { to: '/docs/impacto', label: 'Impacto', position: 'left' },
+              { to: '/docs/fluxo', label: 'Fluxo', position: 'left' },
+
         { to: '/docs/equipe', label: 'Equipe', position: 'left' },
         { to: '/docs/roadmap', label: 'Roadmap', position: 'left' },
         {
