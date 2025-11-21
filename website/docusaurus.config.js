@@ -2,8 +2,8 @@
 const config = {
   title: 'VozSegura',
   tagline: 'Ambiente digital inclusivo, seguro e participativo para 60+',
-  url: 'https://DavidDeodato.github.io',
-  baseUrl: '/vozsegura-docs/',
+  url: 'https://vozsegura-docs.vercel.app',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
