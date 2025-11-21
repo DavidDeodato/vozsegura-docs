@@ -17,7 +17,7 @@ const config = {
         src: 'https://raw.githubusercontent.com/DavidDeodato/vozsegura-docs/main/docs/logo_sem_fundo_sem_nome_embaixo.png',
       },
       items: [
-        { to: '/docs/index', label: 'Sumario Executivo', position: 'left' },
+        { to: '/docs/', label: 'Sumario Executivo', position: 'left' },
         { to: '/docs/entendimento-problema', label: 'Problema', position: 'left' },
             { to: '/docs/entendimento-usuario', label: 'Usuario', position: 'left' },
         { to: '/docs/solucao', label: 'Solucao', position: 'left' },
@@ -41,7 +41,7 @@ const config = {
         {
           title: 'Documentacao',
           items: [
-            { label: 'Sumario Executivo', to: '/docs/index' },
+            { label: 'Sumario Executivo', to: '/docs/' },
             { label: 'Problema', to: '/docs/entendimento-problema' },
             { label: 'Solucao', to: '/docs/solucao' },
             { label: 'Analise', to: '/docs/analise-financeira-tecnica' },
