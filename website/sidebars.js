@@ -8,6 +8,7 @@ const sidebars = {
       items: [
         'index',
         'entendimento-problema',
+            'entendimento-usuario',
         'solucao',
         'analise-financeira-tecnica',
         'impacto',
