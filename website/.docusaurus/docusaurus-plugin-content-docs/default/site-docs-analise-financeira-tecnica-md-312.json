@@ -1,0 +1,24 @@
+{
+  "unversionedId": "analise-financeira-tecnica",
+  "id": "analise-financeira-tecnica",
+  "title": "Analise Financeira e Tecnica",
+  "description": "Premissas Gerais",
+  "source": "@site/../docs/analise-financeira-tecnica.md",
+  "sourceDirName": ".",
+  "slug": "/analise-financeira-tecnica",
+  "permalink": "/vozsegura-docs/docs/analise-financeira-tecnica",
+  "draft": false,
+  "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/analise-financeira-tecnica.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Solucao",
+    "permalink": "/vozsegura-docs/docs/solucao"
+  },
+  "next": {
+    "title": "Impacto Esperado",
+    "permalink": "/vozsegura-docs/docs/impacto"
+  }
+}

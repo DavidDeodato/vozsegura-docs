@@ -1,0 +1,80 @@
+{
+  "/vozsegura-docs/__docusaurus/debug-074": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---vozsegura-docs-docusaurus-debug-459-1b1"
+    }
+  },
+  "/vozsegura-docs/__docusaurus/debug/config-5be": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---vozsegura-docs-docusaurus-debug-459-1b1"
+    }
+  },
+  "/vozsegura-docs/__docusaurus/debug/content-389": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---vozsegura-docs-docusaurus-debug-459-1b1"
+    },
+    "allContent": "allContent---vozsegura-docs-docusaurus-debug-content-246-011"
+  },
+  "/vozsegura-docs/__docusaurus/debug/globalData-9ae": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---vozsegura-docs-docusaurus-debug-459-1b1"
+    }
+  },
+  "/vozsegura-docs/__docusaurus/debug/metadata-63f": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---vozsegura-docs-docusaurus-debug-459-1b1"
+    }
+  },
+  "/vozsegura-docs/__docusaurus/debug/registry-420": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---vozsegura-docs-docusaurus-debug-459-1b1"
+    }
+  },
+  "/vozsegura-docs/__docusaurus/debug/routes-82c": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---vozsegura-docs-docusaurus-debug-459-1b1"
+    }
+  },
+  "/vozsegura-docs/docs-d23": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---vozsegura-docs-docs-3-eb-b80"
+    },
+    "versionMetadata": "versionMetadata---vozsegura-docs-docs-935-d4d"
+  },
+  "/vozsegura-docs/docs/-fa8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vozsegura-docs-docs-03-a-9f7"
+  },
+  "/vozsegura-docs/docs/analise-financeira-tecnica-5cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vozsegura-docs-docs-analise-financeira-tecnica-312-b01"
+  },
+  "/vozsegura-docs/docs/entendimento-problema-6b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vozsegura-docs-docs-entendimento-problema-611-164"
+  },
+  "/vozsegura-docs/docs/equipe-7c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vozsegura-docs-docs-equipe-731-603"
+  },
+  "/vozsegura-docs/docs/impacto-db0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vozsegura-docs-docs-impacto-884-699"
+  },
+  "/vozsegura-docs/docs/roadmap-809": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vozsegura-docs-docs-roadmap-177-d61"
+  },
+  "/vozsegura-docs/docs/solucao-531": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vozsegura-docs-docs-solucao-506-b67"
+  }
+}

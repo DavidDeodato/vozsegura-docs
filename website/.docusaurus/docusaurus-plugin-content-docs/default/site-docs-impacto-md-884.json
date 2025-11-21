@@ -1,0 +1,24 @@
+{
+  "unversionedId": "impacto",
+  "id": "impacto",
+  "title": "Impacto Esperado",
+  "description": "Impacto Social",
+  "source": "@site/../docs/impacto.md",
+  "sourceDirName": ".",
+  "slug": "/impacto",
+  "permalink": "/vozsegura-docs/docs/impacto",
+  "draft": false,
+  "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/impacto.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Analise Financeira e Tecnica",
+    "permalink": "/vozsegura-docs/docs/analise-financeira-tecnica"
+  },
+  "next": {
+    "title": "Equipe",
+    "permalink": "/vozsegura-docs/docs/equipe"
+  }
+}

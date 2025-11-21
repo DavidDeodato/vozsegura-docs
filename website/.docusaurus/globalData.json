@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/vozsegura-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/vozsegura-docs/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "analise-financeira-tecnica",
+              "path": "/vozsegura-docs/docs/analise-financeira-tecnica",
+              "sidebar": "docs"
+            },
+            {
+              "id": "entendimento-problema",
+              "path": "/vozsegura-docs/docs/entendimento-problema",
+              "sidebar": "docs"
+            },
+            {
+              "id": "equipe",
+              "path": "/vozsegura-docs/docs/equipe",
+              "sidebar": "docs"
+            },
+            {
+              "id": "impacto",
+              "path": "/vozsegura-docs/docs/impacto",
+              "sidebar": "docs"
+            },
+            {
+              "id": "index",
+              "path": "/vozsegura-docs/docs/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "roadmap",
+              "path": "/vozsegura-docs/docs/roadmap",
+              "sidebar": "docs"
+            },
+            {
+              "id": "solucao",
+              "path": "/vozsegura-docs/docs/solucao",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/vozsegura-docs/docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

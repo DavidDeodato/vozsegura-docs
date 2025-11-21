@@ -1,0 +1,24 @@
+{
+  "unversionedId": "equipe",
+  "id": "equipe",
+  "title": "Equipe",
+  "description": "Equipe multidisciplinar composta por Product Manager, Gestor de Impacto Social, desenvolvedores backend e IA, DevOps, designer UX/UI, roteirista e editor de audio, moderadores de comunidade e atendimento humano. A combinacao de habilidades tecnicas e sociais garante que a VozSegura entregue impacto social genuino.",
+  "source": "@site/../docs/equipe.md",
+  "sourceDirName": ".",
+  "slug": "/equipe",
+  "permalink": "/vozsegura-docs/docs/equipe",
+  "draft": false,
+  "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/equipe.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Impacto Esperado",
+    "permalink": "/vozsegura-docs/docs/impacto"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/vozsegura-docs/docs/roadmap"
+  }
+}

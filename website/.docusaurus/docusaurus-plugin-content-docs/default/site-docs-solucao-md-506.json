@@ -1,0 +1,24 @@
+{
+  "unversionedId": "solucao",
+  "id": "solucao",
+  "title": "Solucao",
+  "description": "Visao Geral",
+  "source": "@site/../docs/solucao.md",
+  "sourceDirName": ".",
+  "slug": "/solucao",
+  "permalink": "/vozsegura-docs/docs/solucao",
+  "draft": false,
+  "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/solucao.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Entendimento do Problema",
+    "permalink": "/vozsegura-docs/docs/entendimento-problema"
+  },
+  "next": {
+    "title": "Analise Financeira e Tecnica",
+    "permalink": "/vozsegura-docs/docs/analise-financeira-tecnica"
+  }
+}

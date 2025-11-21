@@ -1,0 +1,20 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "Sumario Executivo",
+  "description": "Contexto do Problema",
+  "source": "@site/../docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/vozsegura-docs/docs/",
+  "draft": false,
+  "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "next": {
+    "title": "Entendimento do Problema",
+    "permalink": "/vozsegura-docs/docs/entendimento-problema"
+  }
+}

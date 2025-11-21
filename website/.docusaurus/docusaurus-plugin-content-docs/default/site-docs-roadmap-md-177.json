@@ -1,0 +1,20 @@
+{
+  "unversionedId": "roadmap",
+  "id": "roadmap",
+  "title": "Roadmap",
+  "description": "Visao Geral",
+  "source": "@site/../docs/roadmap.md",
+  "sourceDirName": ".",
+  "slug": "/roadmap",
+  "permalink": "/vozsegura-docs/docs/roadmap",
+  "draft": false,
+  "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Equipe",
+    "permalink": "/vozsegura-docs/docs/equipe"
+  }
+}

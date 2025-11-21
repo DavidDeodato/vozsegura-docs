@@ -1,0 +1,235 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/vozsegura-docs/docs",
+          "tagsPath": "/vozsegura-docs/docs/tags",
+          "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs",
+          "editUrlLocalized": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\pc\\OneDrive\\Desktop\\INTELI\\vozsegura-docs\\website\\sidebars.js",
+          "contentPath": "C:\\Users\\pc\\OneDrive\\Desktop\\INTELI\\vozsegura-docs\\docs",
+          "contentPathLocalized": "C:\\Users\\pc\\OneDrive\\Desktop\\INTELI\\vozsegura-docs\\website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "analise-financeira-tecnica",
+              "id": "analise-financeira-tecnica",
+              "title": "Analise Financeira e Tecnica",
+              "description": "Premissas Gerais",
+              "source": "@site/../docs/analise-financeira-tecnica.md",
+              "sourceDirName": ".",
+              "slug": "/analise-financeira-tecnica",
+              "permalink": "/vozsegura-docs/docs/analise-financeira-tecnica",
+              "draft": false,
+              "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/analise-financeira-tecnica.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Solucao",
+                "permalink": "/vozsegura-docs/docs/solucao"
+              },
+              "next": {
+                "title": "Impacto Esperado",
+                "permalink": "/vozsegura-docs/docs/impacto"
+              }
+            },
+            {
+              "unversionedId": "entendimento-problema",
+              "id": "entendimento-problema",
+              "title": "Entendimento do Problema",
+              "description": "Contexto e Dor",
+              "source": "@site/../docs/entendimento-problema.md",
+              "sourceDirName": ".",
+              "slug": "/entendimento-problema",
+              "permalink": "/vozsegura-docs/docs/entendimento-problema",
+              "draft": false,
+              "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/entendimento-problema.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Sumario Executivo",
+                "permalink": "/vozsegura-docs/docs/"
+              },
+              "next": {
+                "title": "Solucao",
+                "permalink": "/vozsegura-docs/docs/solucao"
+              }
+            },
+            {
+              "unversionedId": "equipe",
+              "id": "equipe",
+              "title": "Equipe",
+              "description": "Equipe multidisciplinar composta por Product Manager, Gestor de Impacto Social, desenvolvedores backend e IA, DevOps, designer UX/UI, roteirista e editor de audio, moderadores de comunidade e atendimento humano. A combinacao de habilidades tecnicas e sociais garante que a VozSegura entregue impacto social genuino.",
+              "source": "@site/../docs/equipe.md",
+              "sourceDirName": ".",
+              "slug": "/equipe",
+              "permalink": "/vozsegura-docs/docs/equipe",
+              "draft": false,
+              "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/equipe.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Impacto Esperado",
+                "permalink": "/vozsegura-docs/docs/impacto"
+              },
+              "next": {
+                "title": "Roadmap",
+                "permalink": "/vozsegura-docs/docs/roadmap"
+              }
+            },
+            {
+              "unversionedId": "impacto",
+              "id": "impacto",
+              "title": "Impacto Esperado",
+              "description": "Impacto Social",
+              "source": "@site/../docs/impacto.md",
+              "sourceDirName": ".",
+              "slug": "/impacto",
+              "permalink": "/vozsegura-docs/docs/impacto",
+              "draft": false,
+              "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/impacto.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Analise Financeira e Tecnica",
+                "permalink": "/vozsegura-docs/docs/analise-financeira-tecnica"
+              },
+              "next": {
+                "title": "Equipe",
+                "permalink": "/vozsegura-docs/docs/equipe"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Sumario Executivo",
+              "description": "Contexto do Problema",
+              "source": "@site/../docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/vozsegura-docs/docs/",
+              "draft": false,
+              "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "next": {
+                "title": "Entendimento do Problema",
+                "permalink": "/vozsegura-docs/docs/entendimento-problema"
+              }
+            },
+            {
+              "unversionedId": "roadmap",
+              "id": "roadmap",
+              "title": "Roadmap",
+              "description": "Visao Geral",
+              "source": "@site/../docs/roadmap.md",
+              "sourceDirName": ".",
+              "slug": "/roadmap",
+              "permalink": "/vozsegura-docs/docs/roadmap",
+              "draft": false,
+              "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/roadmap.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Equipe",
+                "permalink": "/vozsegura-docs/docs/equipe"
+              }
+            },
+            {
+              "unversionedId": "solucao",
+              "id": "solucao",
+              "title": "Solucao",
+              "description": "Visao Geral",
+              "source": "@site/../docs/solucao.md",
+              "sourceDirName": ".",
+              "slug": "/solucao",
+              "permalink": "/vozsegura-docs/docs/solucao",
+              "draft": false,
+              "editUrl": "https://github.com/DavidDeodato/vozsegura-docs/edit/main/../docs/solucao.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Entendimento do Problema",
+                "permalink": "/vozsegura-docs/docs/entendimento-problema"
+              },
+              "next": {
+                "title": "Analise Financeira e Tecnica",
+                "permalink": "/vozsegura-docs/docs/analise-financeira-tecnica"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docs": [
+              {
+                "type": "category",
+                "label": "Documentacao",
+                "collapsible": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "entendimento-problema"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "solucao"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "analise-financeira-tecnica"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "impacto"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "equipe"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "roadmap"
+                  }
+                ],
+                "collapsed": false
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

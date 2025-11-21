@@ -1,0 +1,108 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "category",
+        "label": "Documentacao",
+        "collapsible": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Sumario Executivo",
+            "href": "/vozsegura-docs/docs/",
+            "docId": "index"
+          },
+          {
+            "type": "link",
+            "label": "Entendimento do Problema",
+            "href": "/vozsegura-docs/docs/entendimento-problema",
+            "docId": "entendimento-problema"
+          },
+          {
+            "type": "link",
+            "label": "Solucao",
+            "href": "/vozsegura-docs/docs/solucao",
+            "docId": "solucao"
+          },
+          {
+            "type": "link",
+            "label": "Analise Financeira e Tecnica",
+            "href": "/vozsegura-docs/docs/analise-financeira-tecnica",
+            "docId": "analise-financeira-tecnica"
+          },
+          {
+            "type": "link",
+            "label": "Impacto Esperado",
+            "href": "/vozsegura-docs/docs/impacto",
+            "docId": "impacto"
+          },
+          {
+            "type": "link",
+            "label": "Equipe",
+            "href": "/vozsegura-docs/docs/equipe",
+            "docId": "equipe"
+          },
+          {
+            "type": "link",
+            "label": "Roadmap",
+            "href": "/vozsegura-docs/docs/roadmap",
+            "docId": "roadmap"
+          }
+        ],
+        "collapsed": false
+      }
+    ]
+  },
+  "docs": {
+    "analise-financeira-tecnica": {
+      "id": "analise-financeira-tecnica",
+      "title": "Analise Financeira e Tecnica",
+      "description": "Premissas Gerais",
+      "sidebar": "docs"
+    },
+    "entendimento-problema": {
+      "id": "entendimento-problema",
+      "title": "Entendimento do Problema",
+      "description": "Contexto e Dor",
+      "sidebar": "docs"
+    },
+    "equipe": {
+      "id": "equipe",
+      "title": "Equipe",
+      "description": "Equipe multidisciplinar composta por Product Manager, Gestor de Impacto Social, desenvolvedores backend e IA, DevOps, designer UX/UI, roteirista e editor de audio, moderadores de comunidade e atendimento humano. A combinacao de habilidades tecnicas e sociais garante que a VozSegura entregue impacto social genuino.",
+      "sidebar": "docs"
+    },
+    "impacto": {
+      "id": "impacto",
+      "title": "Impacto Esperado",
+      "description": "Impacto Social",
+      "sidebar": "docs"
+    },
+    "index": {
+      "id": "index",
+      "title": "Sumario Executivo",
+      "description": "Contexto do Problema",
+      "sidebar": "docs"
+    },
+    "roadmap": {
+      "id": "roadmap",
+      "title": "Roadmap",
+      "description": "Visao Geral",
+      "sidebar": "docs"
+    },
+    "solucao": {
+      "id": "solucao",
+      "title": "Solucao",
+      "description": "Visao Geral",
+      "sidebar": "docs"
+    }
+  }
+}
